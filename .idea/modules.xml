@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mushroom.iml" filepath="$PROJECT_DIR$/.idea/Mushroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mush-coupon/mush-coupon.iml" filepath="$PROJECT_DIR$/mush-coupon/mush-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mush-order/mush-order.iml" filepath="$PROJECT_DIR$/mush-order/mush-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mush-product/mush-product.iml" filepath="$PROJECT_DIR$/mush-product/mush-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mush-ware/mush-ware.iml" filepath="$PROJECT_DIR$/mush-ware/mush-ware.iml" />
+    </modules>
+  </component>
+</project>

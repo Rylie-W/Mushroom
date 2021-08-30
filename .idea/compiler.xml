@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mush-order" />
+        <module name="mush-product" />
+        <module name="mush-coupon" />
+        <module name="mush-ware" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mush-coupon" target="1.5" />
+      <module name="mush-order" target="1.5" />
+      <module name="mush-product" target="1.5" />
+      <module name="mush-ware" target="1.5" />
+      <module name="product" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
