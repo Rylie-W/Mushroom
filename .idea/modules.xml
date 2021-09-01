@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Mushroom.iml" filepath="$PROJECT_DIR$/.idea/Mushroom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mush-coupon/mush-coupon.iml" filepath="$PROJECT_DIR$/mush-coupon/mush-coupon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mush-member/mush-member.iml" filepath="$PROJECT_DIR$/mush-member/mush-member.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mush-order/mush-order.iml" filepath="$PROJECT_DIR$/mush-order/mush-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mush-product/mush-product.iml" filepath="$PROJECT_DIR$/mush-product/mush-product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mush-ware/mush-ware.iml" filepath="$PROJECT_DIR$/mush-ware/mush-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-common/mushmall-common.iml" filepath="$PROJECT_DIR$/mushmall-common/mushmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-coupon/mushmall-coupon.iml" filepath="$PROJECT_DIR$/mushmall-coupon/mushmall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-member/mushmall-member.iml" filepath="$PROJECT_DIR$/mushmall-member/mushmall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-order/mushmall-order.iml" filepath="$PROJECT_DIR$/mushmall-order/mushmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-product/mushmall-product.iml" filepath="$PROJECT_DIR$/mushmall-product/mushmall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mushmall-ware/mushmall-ware.iml" filepath="$PROJECT_DIR$/mushmall-ware/mushmall-ware.iml" />
       <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
       <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>

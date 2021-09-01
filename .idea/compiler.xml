@@ -7,13 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mush-coupon" />
-        <module name="mush-order" />
-        <module name="mush-product" />
-        <module name="mush-member" />
+        <module name="mushmall-product" />
+        <module name="mushmall-ware" />
+        <module name="mushmall-order" />
         <module name="renren-fast" />
-        <module name="mush-ware" />
+        <module name="mushmall-member" />
+        <module name="mushmall-common" />
         <module name="renren-generator" />
+        <module name="mushmall-coupon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +24,13 @@
       <module name="mush-order" target="11" />
       <module name="mush-product" target="11" />
       <module name="mush-ware" target="11" />
-      <module name="Mushroom" target="1.5" />
+      <module name="mushmall-common" target="1.8" />
+      <module name="mushmall-coupon" target="1.8" />
+      <module name="mushmall-member" target="1.8" />
+      <module name="mushmall-order" target="1.8" />
+      <module name="mushmall-product" target="1.8" />
+      <module name="mushmall-ware" target="1.8" />
+      <module name="Mushroom" target="1.8" />
       <module name="product" target="1.5" />
       <module name="renren-fast" target="1.8" />
       <module name="renren-generator" target="1.8" />
@@ -36,6 +43,12 @@
       <module name="mush-order" options="-parameters" />
       <module name="mush-product" options="-parameters" />
       <module name="mush-ware" options="-parameters" />
+      <module name="mushmall-common" options="-parameters" />
+      <module name="mushmall-coupon" options="-parameters" />
+      <module name="mushmall-member" options="-parameters" />
+      <module name="mushmall-order" options="-parameters" />
+      <module name="mushmall-product" options="-parameters" />
+      <module name="mushmall-ware" options="-parameters" />
       <module name="renren-fast" options="-parameters" />
       <module name="renren-generator" options="-parameters" />
     </option>

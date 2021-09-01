@@ -4,13 +4,23 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo/product/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-product/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-ware/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-coupon/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-member/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-order/pom.xml" />
+        <option value="$PROJECT_DIR$/mushmall-common/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mush-coupon/pom.xml" />
+        <option value="$PROJECT_DIR$/mush-member/pom.xml" />
         <option value="$PROJECT_DIR$/mush-order/pom.xml" />
         <option value="$PROJECT_DIR$/mush-product/pom.xml" />
         <option value="$PROJECT_DIR$/mush-ware/pom.xml" />
-        <option value="$PROJECT_DIR$/mush-coupon/pom.xml" />
-        <option value="$PROJECT_DIR$/mush-member/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
