@@ -23,7 +23,7 @@ import com.yw.common.utils.R;
  *
  * @author yw
  * @email yiwscu@outlook.com
- * @date 2021-09-01 21:16:15
+ * @date 2021-09-01 23:34:49
  */
 @RestController
 @RequestMapping("product/spuinfodesc")
