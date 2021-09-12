@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/mushmall-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mushmall-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mushmall-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mushmall-member/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mushmall-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mushmall-product/src/main/java" charset="UTF-8" />

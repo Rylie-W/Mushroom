@@ -12,6 +12,7 @@
         <module name="mushmall-order" />
         <module name="renren-fast" />
         <module name="mushmall-member" />
+        <module name="mushmall-gateway" />
         <module name="mushmall-common" />
         <module name="renren-generator" />
         <module name="mushmall-coupon" />
@@ -26,6 +27,7 @@
       <module name="mush-ware" target="11" />
       <module name="mushmall-common" target="1.8" />
       <module name="mushmall-coupon" target="1.8" />
+      <module name="mushmall-gateway" target="1.8" />
       <module name="mushmall-member" target="1.8" />
       <module name="mushmall-order" target="1.8" />
       <module name="mushmall-product" target="1.8" />
@@ -45,6 +47,7 @@
       <module name="mush-ware" options="-parameters" />
       <module name="mushmall-common" options="-parameters" />
       <module name="mushmall-coupon" options="-parameters" />
+      <module name="mushmall-gateway" options="-parameters" />
       <module name="mushmall-member" options="-parameters" />
       <module name="mushmall-order" options="-parameters" />
       <module name="mushmall-product" options="-parameters" />
